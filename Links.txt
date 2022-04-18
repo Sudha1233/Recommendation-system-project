@@ -1,0 +1,9 @@
+
+   DATA SOURCE :  https://www.last.fm/tag/meditation/artists
+
+
+
+   ML(KNN):   https://meditation-relaxation-music.herokuapp.com/
+
+
+  NLP :     https://tfidf-music-recommender.herokuapp.com/
